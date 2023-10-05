@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WifiSwitch", "WifiSwitch\WifiSwitch.csproj", "{1446A9DF-F3D1-4684-91AB-1B8F076850A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1446A9DF-F3D1-4684-91AB-1B8F076850A7}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{1446A9DF-F3D1-4684-91AB-1B8F076850A7}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{1446A9DF-F3D1-4684-91AB-1B8F076850A7}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1446A9DF-F3D1-4684-91AB-1B8F076850A7}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{1446A9DF-F3D1-4684-91AB-1B8F076850A7}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{1446A9DF-F3D1-4684-91AB-1B8F076850A7}.Debug|iPhone.Build.0 = Debug|iPhone
+		{1446A9DF-F3D1-4684-91AB-1B8F076850A7}.Release|iPhone.ActiveCfg = Release|iPhone
+		{1446A9DF-F3D1-4684-91AB-1B8F076850A7}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D79CFE5-98AD-4056-B723-6AB8B2B13356}
+	EndGlobalSection
+EndGlobal
