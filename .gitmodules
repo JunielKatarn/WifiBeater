@@ -1,0 +1,3 @@
+[submodule "GitModules/iphoneheaders"]
+	path = GitModules/iphoneheaders
+	url = https://github.com/nanotech/iphoneheaders.git
