@@ -45,7 +45,7 @@
 		4303BA792AE2681500D2A164 = {
 			isa = PBXGroup;
 			children = (
-				4303BA842AE2681500D2A164 /* Wifi Beater */,
+				4303BA842AE2681500D2A164 /* WifiBeater */,
 				4303BA832AE2681500D2A164 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,7 +58,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4303BA842AE2681500D2A164 /* Wifi Beater */ = {
+		4303BA842AE2681500D2A164 /* WifiBeater */ = {
 			isa = PBXGroup;
 			children = (
 				4303BA852AE2681500D2A164 /* AppDelegate.h */,
@@ -73,7 +73,7 @@
 				4303BA962AE2681700D2A164 /* Info.plist */,
 				4303BA972AE2681700D2A164 /* main.m */,
 			);
-			path = "WifiBeater";
+			path = WifiBeater;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -110,7 +110,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4303BA7D2AE2681500D2A164 /* Build configuration list for PBXProject "Wifi Beater" */;
+			buildConfigurationList = 4303BA7D2AE2681500D2A164 /* Build configuration list for PBXProject "WifiBeater" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -298,9 +298,9 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = TJW4T39C6N;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "WifiBeater/Info.plist";
+				INFOPLIST_FILE = WifiBeater/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -312,7 +312,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hyvart.Wifi-Beater";
+				PRODUCT_BUNDLE_IDENTIFIER = net.rochsquadron.wifibeater;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -326,9 +326,9 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = TJW4T39C6N;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "WifiBeater/Info.plist";
+				INFOPLIST_FILE = WifiBeater/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -340,7 +340,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hyvart.Wifi-Beater";
+				PRODUCT_BUNDLE_IDENTIFIER = net.rochsquadron.wifibeater;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -350,7 +350,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4303BA7D2AE2681500D2A164 /* Build configuration list for PBXProject "Wifi Beater" */ = {
+		4303BA7D2AE2681500D2A164 /* Build configuration list for PBXProject "WifiBeater" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4303BA992AE2681700D2A164 /* Debug */,
