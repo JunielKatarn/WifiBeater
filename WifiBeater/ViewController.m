@@ -25,7 +25,7 @@
 
 //https://stackoverflow.com/questions/2053114
 - (IBAction)wifiSwitchToggled:(id)sender {
-    [[objc_getClass("SBWiFiManager") sharedInstance] setWiFiEnabled:NO];
+    //[[objc_getClass("SBWiFiManager") sharedInstance] setWiFiEnabled:NO];
 }
 
 @end
